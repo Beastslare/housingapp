@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "690311487438",
+    "firebase_url": "https://nyumbakumi-afternoon-app-default-rtdb.firebaseio.com",
+    "project_id": "nyumbakumi-afternoon-app",
+    "storage_bucket": "nyumbakumi-afternoon-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690311487438:android:2a572caa8d8e10ac7bd59f",
+        "android_client_info": {
+          "package_name": "com.example.nyumbakumi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAybgWZ7eMsMWK3iOF-Nxph34W4Lx6-kGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
